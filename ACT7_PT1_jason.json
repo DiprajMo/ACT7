@@ -1,0 +1,61 @@
+{
+    "devices": {
+        "items_count": 4
+    },
+    "device": [
+        {
+            "type": "Computer",
+            "name": "Matebook",
+            "company": "Huawei",
+            "inches": 13,
+            "stock": true,
+            "price": {
+                "currency": "€",
+                "value": 780
+        },
+        "internal_info":"C:\\Documents\\files\\makebook.json"
+        },
+        {
+            "type": "Computer",
+            "name": "Titan",
+            "company": "Slimbook",
+            "inches": 15.6,
+            "stock": true,
+            "price": {
+                "currency": "€",
+                "value": 1949
+        },
+        "Slogan":"We have porposed 2 slogan: \"slimebook titan: Unleash power in Every Pixel\" or \"SlimBook Titan:  Powerhouse Performance\""
+        },
+        {
+            "type":"tablet",
+            "Name": "Matepad",
+            "company": "Huawei",
+            "inches": 10.4,
+            "stock": false,
+            "price": {
+                "currency": "€",
+                "value": null
+            },
+            "Characterististic": null
+        },
+        {
+            "type": "Smartphone",
+            "Name": "Titan",
+            "company": "Slimbook",
+            "inches": 15.6,
+            "stock": true,
+            "price": {
+                "currency": "$",
+                "value": 1949
+            },
+            "Characterististic":[
+                "5000mhA battery",
+                "Super AMOLED Plus",
+                "USB-C"
+            ]
+            
+
+        }
+    ]
+}
