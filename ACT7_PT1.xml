@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<persona>
+    <basic_info>
+        <Name>Peter</Name>
+        <Surname>Jones</Surname>
+        <Age>19</Age>
+        <Height>1.78</Height>
+        <Job>Informatic</Job>
+        <Favorite_simile> &lt;3 </Favorite_simile>
+        <Pets>
+            <pet>Black Cat</pet>
+            <pet>Chiwawa</pet>
+        </Pets>
+        <Address>
+            <street>Pau Claris</street>
+            <numer>121</numer>
+            <cp>08012</cp>
+        </Address> 
+    </basic_info>
+    <Social_media>
+        <Instragram>
+            <user>pjones22</user>
+            <email>pjones22@gmail.com</email>
+            <twitter>True</twitter>
+        </Instragram>
+    </Social_media>
+    <friends>
+        <name>John</name>
+        <Surname>Smith</Surname>
+        <age>35</age>
+
+        <name>Anna</name>
+        <Surname>Smith</Surname>
+        <age></age>
+
+    </friends>
+
+
+</persona>
