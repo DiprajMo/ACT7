@@ -40,14 +40,15 @@
             "Characterististic": null
         },
         {
-            "type": "Smartphone",
-            "Name": "Titan",
-            "company": "Slimbook",
-            "inches": 15.6,
+        "type": "Smartphone",
+            "Name": "P50 POCKET",
+            "company": "Huawei",
+            "inches": 9,
             "stock": true,
             "price": {
+                "discount": "3%",
                 "currency": "$",
-                "value": 1949
+                "value": 999
             },
             "Characterististic":[
                 "5000mhA battery",
