@@ -1,0 +1,24 @@
+{
+    "Pokemon": {
+        "ID": 6,
+        "Nom": "Charizard",
+        "Tipos": [
+            "Fuego",
+            "Volador"
+        ],
+        "Pes": "90,5 Kg",
+        "Altura": "1,70 cm",
+        "Estadistiques": {
+            "Velocidad": "3",
+            "Fortalesa": "3",
+            "Precisió": "2",
+            "Resistencia": "5"
+        },
+        "Movimientos": {
+            "Nom": "Derribo",
+            "Descripcio": "Derribo causa daño y el usuario recibe un daño de retroceso",
+            "Potencia": "90",
+            "Contacte": "Sí"
+        }
+    }
+}
